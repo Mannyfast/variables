@@ -1,40 +1,41 @@
-name: <name here>
-date: <date here>
+name: <Malik>
+date: <7/2/21>
 
 1) What is a variable?
-
+A variable is something to do with storing value
 
 
 2) Are variable names case-sensitive? Is a variable named a the same as a variable named A?
-
+variable names are case sensitive that mean variable a is not the same as variable A
 
 
 3) What characters are you allowed to use in a variable name?
-
+-= += *= /= //=
 
 
 3) Can a variable that originally holds a string hold a different type later on?
-
+yes
 
 
 4) Can you save the contents of one variable to another? Example:
     x = 5
     y = x
    What is the value of y?
-
+y=5
 
 
 5) Does using the variable in an operation cause the variable's value to change? How can you cause a variable's value
     to change?
-
+yes operation do cause the value to change. it can change by solving the equation
 
 
 6) Why do we use variables, what is their purpose?
-
+we use variables to stored information
 
 
 7) What is the difference between a literal and a variable?
-
+literal are latter and variable are number stored into to latter
 
 
 8) Why are we allowed to write the code x = x + 5, when in math this would be a contradiction?
+because the = sign has a different meaning

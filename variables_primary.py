@@ -1,5 +1,5 @@
-# author: <name here>
-# date: <date here>
+# author: <Malik>
+# date: <7/2/21>
 #
 # description: <fill in>
 
@@ -24,8 +24,10 @@ example_name = 'elia'
 print('EXAMPLE: my name is', example_name)
 
 # WRITE CODE BELOW
-
-
+Name='Malik'
+birthday=('12,8')
+anmals=('hunneybadge')
+print(Name, birthday, anmals)
 
 # 1.2 | Variable Creation | Integers / Floats
 #
@@ -45,9 +47,11 @@ print('EXAMPLE: my name is', example_name)
 #   5) Print each variable, describing the value you print.
 
 # WRITE CODE BELOW
-
-
-
+number=11
+December=12
+nagtive_number=-11
+decimal=11.1
+print(number, December, nagtive_number, decimal)
 # 1.3 | Overwriting Variables
 #
 # Relevant Documentation
@@ -67,7 +71,7 @@ example_name = 'lucia'
 print('EXAMPLE: my new name is', example_name)
 
 # WRITE CODE BELOW
-
+print('my name is', 11)
 
 
 # 1.4 | Operations
@@ -95,3 +99,10 @@ example_sum = 11 + 21
 print('EXAMPLE: the sum of 11 and 21 is', example_sum)
 
 # WRITE CODE BELOW
+print('the sum of 3 and 97')
+print(100/10)
+print('the sum of 11 and 11')
+lol=10
+print('10*11')
+unluck=2
+print(11-2)
