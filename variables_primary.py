@@ -71,8 +71,10 @@ example_name = 'lucia'
 print('EXAMPLE: my new name is', example_name)
 
 # WRITE CODE BELOW
-print('my name is', 11)
-
+Name='turner'
+birthday='septmeber 1'
+number=7
+print(Name, birthday, number)
 
 # 1.4 | Operations
 #
@@ -99,10 +101,12 @@ example_sum = 11 + 21
 print('EXAMPLE: the sum of 11 and 21 is', example_sum)
 
 # WRITE CODE BELOW
-print('the sum of 3 and 97')
-print(100/10)
-print('the sum of 11 and 11')
-lol=10
-print('10*11')
-unluck=2
-print(11-2)
+sum_of_number=10+10
+times_of_three_number=2*2*2
+dividend=sum_of_number/times_of_three_number
+print(sum_of_number, times_of_three_number, dividend)
+text=anmals+Name
+text2='lol'*number
+print(text,text2)
+number=number**2
+print(number)
